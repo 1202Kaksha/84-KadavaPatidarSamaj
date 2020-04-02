@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<previews>
+
+    <preview
+        name="5.1&quot; WVGA"
+        activity="com.samajapp.samajapp.Addmember"
+        config="layout-ldltr-sw480dp-w480dp-h800dp-large-long-port-notnight-mdpi-finger-keyssoft-nokeys-navhidden-nonav-800x480-v18"
+        device="5.1&quot; WVGA"
+        devicestate="Portrait"
+        target="Android 4.3.1"
+        theme="@android:style/Theme.Holo" >
+    </preview>
+
+</previews>
